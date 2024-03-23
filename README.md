@@ -24,6 +24,7 @@
 
 1. Clone this repository.
 2. Inside the project directory, build the project with Maven:
+   
    ```shell
    mvn clean install
 
